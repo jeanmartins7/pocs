@@ -1,1 +1,1 @@
-# pocs
+# Repository for student purposes
