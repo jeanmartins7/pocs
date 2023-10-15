@@ -3,7 +3,7 @@ public final class ClassSingleton {
 
     private static  ClassSingleton INSTANCE;
     private String info = "Informacoes iniciais da class";
-    private String novaInformacao = "Informando uma nova informacao";
+    private String novaInformacao = "uma nova informacao";
 
     //Classes Singleton possui construtor privado
     private ClassSingleton(){}
